@@ -1,0 +1,46 @@
+
+body{
+    background-color: cadetblue;
+}
+h1, h2{
+    text-align: center;
+}
+h1, span{
+    color: crimson;
+}
+.box{
+    width: 444px;
+    height: 444px;
+    /* border: 1px solid black; */
+    background-color: white;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin: auto;
+    padding: 15px;
+}
+input{
+    outline: none;
+    width: 333px;
+    height: 33px;
+    font-size: 21px;
+    font-weight: 600;
+}
+button{
+    width: 55px;
+    height: 33px;
+    background-color: crimson;
+    border: none;
+    border-radius: 7px;
+    font-size: 21px;
+    font-weight: 500;
+}
+.list{
+    width: 422px;
+    height: 333px;
+    margin-top: 33px;
+}
+li{
+    font-size: 21px;
+    font-weight: 600; 
+    padding: 7px;
+}
